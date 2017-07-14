@@ -6,11 +6,6 @@ Background
 -------------
 After lunch right before the long weekend, like most people, I was too lazy to do any real work. I have been interested in understanding gaming AI for quite some time, mainly after feeling the frustration of the Dark Souls AI, so I decided I'd attempt to get my feet wet in the field by attempting to create a simple pathing AI for the classic game Snake.
 
-Demo
--------------
-You can try it at: https://sacert.github.io/Snake-Star/
-
-
 How it looks
 -------------
 <img style="float: right;" src="snake.gif" width="458" height="400">
