@@ -12,7 +12,7 @@ How it looks
 
 Implementation
 -------------
-Going back to what I was taught in university, I thought of using Dijkstra's algorithm to find the shortest path from the head of the snake to the item but have read that A* is very similar to Dijkstra's algorithm but includes a heuristic for better estimating. 
+I thought of using Dijkstra's algorithm to find the shortest path from the head of the snake to the item but have read that A* is very similar to Dijkstra's algorithm but includes a heuristic for better estimating. 
 > __Solution: Using A* algorithm__
 
 While this did provide me with a snake that did get to the item (apple) the fastest, it would also make a lot of errors such as not working at all if the snake's body was long enough to prevent the head from reaching the item. 
